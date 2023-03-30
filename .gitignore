@@ -1,0 +1,4 @@
+# dependencies not to upload
+/node_modules
+
+package-lock.json
